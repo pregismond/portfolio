@@ -16,6 +16,25 @@ This project aimed to analyze car sales and dealer profits for SwiftAuto Traders
 
 **Skills:** Python (Programming Language) · Data Engineering · Snowflake · Data Visualization · Security · Streamlit · Problem Solving · Data Warehousing · Business Intelligence
 
+## [Predicting Food Truck Locations Using Snowpark ML and XGBoost](https://github.com/pregismond/northstar-snowparkml-modeling)
+
+*Sep 2024*
+
+This project aimed to predict the locations of the Freezing Point food truck by analyzing historical location data and creating a predictive model. The approach involved using Snowflake’s Snowpark ML and XGBoost to develop and evaluate the model. Additionally, the project included creating a complete end-to-end workflow for data processing and model training.
+
+**Objectives:**
+- Create and upload a dataset to Snowflake
+- Clean and transform the data
+- Train an XGBoost model on the prepared data
+- Evaluate the model's performance
+- Register the trained model in the Snowflake Model Registry
+
+**Impact:**
+- Develop a predictive model to forecast the food truck's location
+- Provide insights on the truck's location patterns
+
+**Skills:** Python (Programming Language) · Machine Learning · Snowflake · Data Engineering · Data Visualization · XGBoost · Problem Solving · Data Warehousing · Business Intelligence
+
 ## [Diabetes Prediction Using PySpark MLlib](https://github.com/pregismond/coursera-diabetes-prediction)
 
 *Aug 2024*
