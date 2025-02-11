@@ -21,7 +21,7 @@ This project aimed to analyze car sales and dealer profits for SwiftAuto Traders
     <img src="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/04_sales_dashboard.png?raw=true" alt="Sales Dashboard - Snowsight" width="150" style="margin: 5px; border-radius: 5px;">
   </a>
   <a href="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/04_service_dashboard.png?raw=true" target="_blank">
-    <img src="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/04_service_dashboard.png?raw=true" alt="Service Dashboard - Snowsight"  width="150" style="margin: 5px; border-radius: 5px;">
+    <img src="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/04_service_dashboard.png?raw=true" alt="Service Dashboard - Snowsight" width="150" style="margin: 5px; border-radius: 5px;">
   </a>
   <a href="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/02_share_streamlit_app_sales.png?raw=true" target="_blank">
     <img src="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/02_share_streamlit_app_sales.png?raw=true" alt="Sales Dashboard - Streamlit" width="150" style="margin: 5px; border-radius: 5px;">
@@ -49,6 +49,21 @@ This project aimed to predict the locations of the Freezing Point food truck by 
 - Provide insights on the truck's location patterns
 
 **Skills:** Python (Programming Language) · Machine Learning · Snowflake · Data Engineering · Data Visualization · XGBoost · Problem Solving · Data Warehousing · Business Intelligence
+
+<p align="center">
+  <a href="https://github.com/pregismond/northstar-snowparkml-modeling/blob/main/images/03-05_snowpark.png?raw=true" target="_blank">
+    <img src="https://github.com/pregismond/northstar-snowparkml-modeling/blob/main/images/03-05_snowpark.png?raw=true" alt="Create Dataset" width="150" style="margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="https://github.com/pregismond/northstar-snowparkml-modeling/blob/main/images/11-13_snowpark.png?raw=true" target="_blank">
+    <img src="https://github.com/pregismond/northstar-snowparkml-modeling/blob/main/images/11-13_snowpark.png?raw=true" alt="Upload Dataset" width="150" style="margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="https://github.com/pregismond/northstar-snowparkml-modeling/blob/main/images/22-24_snowpark.png?raw=true" target="_blank">
+    <img src="https://github.com/pregismond/northstar-snowparkml-modeling/blob/main/images/22-24_snowpark.png?raw=true" alt="Train XGBoost Model" width="150" style="margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="https://github.com/pregismond/northstar-snowparkml-modeling/blob/main/images/28.2_snowpark.png?raw=true" target="_blank">
+    <img src="https://github.com/pregismond/northstar-snowparkml-modeling/blob/main/images/28.2_snowpark.png?raw=true" alt="Freezing Point Model" width="150" style="margin: 5px; border-radius: 5px;">
+  </a>
+</p>
 
 ## [Diabetes Prediction Using PySpark MLlib](https://github.com/pregismond/coursera-diabetes-prediction)
 
@@ -85,6 +100,24 @@ This project involved indentifying patterns in volume and location of waste coll
 - Forecast needs for future resources
 
 **Skills:** Data Modeling · Data Engineering · Data Visualization · Problem Solving · PostgreSQL · Data Warehousing · IBM Cognos Analytics
+
+<p align="center">
+  <a href="https://github.com/pregismond/introduction-to-data-warehousing/blob/main/images/02.05-MyDimDate.png?raw=true" target="_blank">
+    <img src="https://github.com/pregismond/introduction-to-data-warehousing/blob/main/images/02.05-MyDimDate.png?raw=true" alt="Design MyDimDate" width="150" style="margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="https://github.com/pregismond/introduction-to-data-warehousing/blob/main/images/03.09.05-DimDate.png?raw=true" target="_blank">
+    <img src="https://github.com/pregismond/introduction-to-data-warehousing/blob/main/images/03.09.05-DimDate.png?raw=true" alt="Load DimDate" width="150" style="margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="https://github.com/pregismond/introduction-to-data-warehousing/blob/main/images/04.13-groupingsets.png?raw=true" target="_blank">
+    <img src="https://github.com/pregismond/introduction-to-data-warehousing/blob/main/images/04.13-groupingsets.png?raw=true" alt="Grouping Sets" width="150" style="margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="https://github.com/pregismond/introduction-to-data-warehousing/blob/main/images/04.16-mqt.png?raw=true" target="_blank">
+    <img src="https://github.com/pregismond/introduction-to-data-warehousing/blob/main/images/04.16-mqt.png?raw=true" alt="Create MQT" width="150" style="margin: 5px; border-radius: 5px;">
+  </a>
+  <a href="https://github.com/pregismond/introduction-to-data-warehousing/blob/main/Solid%20Waste%20Dashboard.pdf" target="_blank">
+    <img src="https://github.com/pregismond/introduction-to-data-warehousing/blob/main/solid-waste-dashboard-thumbnail.png?raw=true" alt="Solid Waste Dashboard" width="150" style="margin: 5px; border-radius: 5px;">
+  </a>
+</p>
 
 ## [Traffic Flow Optimization with Airflow and Kafka](https://github.com/pregismond/etl-data-pipelines-with-shell-airflow-kafka)
 
