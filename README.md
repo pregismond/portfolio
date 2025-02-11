@@ -16,6 +16,19 @@ This project aimed to analyze car sales and dealer profits for SwiftAuto Traders
 
 **Skills:** Python (Programming Language) · Data Engineering · Snowflake · Data Visualization · Security · Streamlit · Problem Solving · Data Warehousing · Business Intelligence
 
+<a href="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/04_sales_dashboard.png?raw=true" target="_blank">
+  <img src="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/04_sales_dashboard.png?raw=true" alt="Sales Dashboard - Snowsight" width="200" height="150">
+</a>
+<a href="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/04_service_dashboard.png?raw=true" target="_blank">
+  <img src="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/04_service_dashboard.png?raw=true" alt="Service Dashboard - Snowsight" width="200" height="150">
+</a>
+<a href="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/02_share_streamlit_app_sales.png?raw=true" target="_blank">
+  <img src="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/02_share_streamlit_app_sales.png?raw=true" alt="Sales Dashboard - Streamlit" width="200" height="150">
+</a>
+<a href="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/02_share_streamlit_app_service.png?raw=true" target="_blank">
+  <img src="https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight/blob/main/images/02_share_streamlit_app_service.png?raw=true" alt="Service Dashboard - Streamlit" width="200" height="150">
+</a>
+
 ## [Predicting Food Truck Locations Using Snowpark ML and XGBoost](https://github.com/pregismond/northstar-snowparkml-modeling)
 
 *Sep 2024*
