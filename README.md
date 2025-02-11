@@ -4,7 +4,7 @@ Hi, I’m **Pravin Regismond**. I work with data—processing it, storing it, an
 
 I like solving problems, automating processes, and continuously learning new technologies. My experience spans **SQL, Python, Snowflake, Apache Airflow, Kafka, and DevOps tools**.
 
-Feel free to check out my projects here or connect with me on LinkedIn.
+Feel free to check out my projects here or connect with me on [LinkedIn](https://www.linkedin.com/in/pregismond).
 
 # Portfolio
 
