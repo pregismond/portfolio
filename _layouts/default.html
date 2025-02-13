@@ -23,12 +23,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.linkedin_username %}
-        <p class="view">
-          <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
-            <img src="{{ 'assets/img/LI-In-Bug.png' | relative_url }}" alt="LinkedIn" style="height: 24px; vertical-align: middle;" />
-          </a>
-        </p>
+        {% if site.show_social_links %}
+          {% include social-links.html %}
         {% endif %}
 
         {% if site.show_github_links %}
