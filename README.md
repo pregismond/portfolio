@@ -1,11 +1,3 @@
-# About Me
-
-Hi, I’m **Pravin Regismond**. I work with data—processing it, storing it, and making it useful. I started my career in database administration and spent over two decades managing and optimizing systems. More recently, I’ve been focusing on **data engineering**, working with **ETL pipelines, cloud platforms, and real-time data processing**.
-
-I like solving problems, automating processes, and continuously learning new technologies. My experience spans **SQL, Python, Snowflake, Apache Airflow, Kafka, and DevOps tools**.
-
-Feel free to check out my projects here or connect with me on [LinkedIn](https://www.linkedin.com/in/pregismond).
-
 # Portfolio
 
 ## [Visualizing Car Sales and Dealer Profits Using Snowflake Snowsight](https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight)
