@@ -1,11 +1,16 @@
 <!-- Social Links -->
 <div class="social-links">
-    <a href="{{ site.github.owner_url }}">
-      <img src="{{ 'assets/img/github-mark.png' | relative_url }}" alt="GitHub" class="social-icon" />
+    <a href="{{ site.github.owner_url }}" aria-label="GitHub Profile">
+      <img src="{{ 'assets/img/github-mark.png' | relative_url }}" alt="GitHub Profile" class="social-icon" />
     </a>
     {% if site.linkedin_username %}
-      <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
-        <img src="{{ 'assets/img/LI-In-Bug.png' | relative_url }}" alt="LinkedIn" class="social-icon" />
+      <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" aria-label="LinkedIn Profile">
+        <img src="{{ 'assets/img/LI-In-Bug.png' | relative_url }}" alt="LinkedIn Profile" class="social-icon" />
+      </a>
+    {% endif %}
+    {% if site.accredible_username %}
+      <a href="https://achieve.snowflake.com/profile/{{ site.accredible_username }}/wallet" aria-label="Snowflake Credentials Wallet">
+        <img src="{{ 'assets/img/snowflake-bug-color-rgb@1x.png' | relative_url }}" alt="Snowflake Credentials Wallet" class="social-icon" />
       </a>
     {% endif %}
 </div>
